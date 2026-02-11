@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ワールドイズマイン-初音ミク「マジカルミライ 2021」Live-",
+  "base_artist": "ryo (supercell)、初音ミク",
+  "createdAt": "2026-02-11T07:34:10.898853Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ワールドイズマイン-初音ミク「マジカルミライ 2021」Live- (feat. 初音ミク)",
+      "artist": "ryo (supercell), 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_ワールドイズマイン-初音ミク「マジカルミライ_2021」Live-_(feat._初音ミク)_ryo_(supercell),_初音ミク.txt"
+    }
+  ]
+}
